@@ -7,3 +7,14 @@ models/
 mlruns/
 qdrant_storage/
 .ipynb_checkpoints/
+data/processed
+.venv/configs/users.yaml
+data/processed/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+mlruns/
+*.safetensors
+*.gguf
+*.bin
+.DS_Store
